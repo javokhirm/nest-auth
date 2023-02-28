@@ -27,6 +27,8 @@ JWT_ACCESS_SECRET=some_access_secret_key
 JWT_REFRESH_SECRET=some_refresh_secret_key
 ```
 
+Create a database before running the app
+
 ## Running the app
 
 ```bash
